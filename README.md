@@ -13,8 +13,6 @@
 ## Required Libraries/Packages/Software
 - Python 3.x
 - `gzip` (pre-installed in Python)
-- `NumPy` (`numpy`)
-- `Matplotlib` (`matplotlib`)
 
 You can install the required libraries using:
 ```bash
