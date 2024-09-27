@@ -16,7 +16,7 @@
 
 You can install the required libraries using:
 ```bash
-pip install numpy matplotlib
+pip install gzip
 ```
 
 ## Instructions for Running the Script
